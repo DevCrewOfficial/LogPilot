@@ -6,8 +6,8 @@ from zoneinfo import ZoneInfo
 
 from .tools import execute_tool
 from .llm import MODEL, generate_customer_response, plan_resolution
-from file.risk_policy import assess_risk
-import file.approvals as approvals
+from risk_policy import assess_risk
+import approvals as approvals
 
 
 IST = ZoneInfo("Asia/Kolkata")
