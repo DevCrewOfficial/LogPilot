@@ -1,4 +1,4 @@
-# AgentHiveAI
+# LogPilot
 
 ### AI Agent for Autonomous Logistics Exception Resolution
 
